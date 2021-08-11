@@ -1,3 +1,10 @@
+.video-container-wrapper {
+max-width: 100%;
+width: 600px;
+left: 0;
+right:0;
+margin:auto;
+}
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
