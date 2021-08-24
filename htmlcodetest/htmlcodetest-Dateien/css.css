@@ -1,10 +1,11 @@
-@font-face { font-family: SawarabiGothic-Regular; 
-			 src: url('htmlcodetest-Dateien/font/SawarabiGothic-Regular.ttf'); } 
-h1 {
+@font-face { font-family: sawarabigothic-regular; 
+src: url('htmlcodetest-Dateien/font/SawarabiGothic-Regular.ttf'); } 
+
+h1{
+    font-family: sawarabigothic-regular;
     width: 100%;				
     font-weight: lighter;			
     text-align: center;			
     font-size: 40px;
     color: white;
-    font-family: SawarabiGothic-Regular;
 }
