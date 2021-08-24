@@ -1,12 +1,10 @@
-<head<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sawarabi+Gothic" /></head>
-body {
-	font-family: Sawarabi Gothic;
-}
+@font-face { font-family: roboto-regular; 
+			 src: url('htmlcodetest-Dateien/font/SawarabiGothic-Regular.ttf'); } 
 h1 {
     width: 100%;				
     font-weight: lighter;			
     text-align: center;			
     font-size: 40px;
     color: white;
-    font-face="Sawarabi Gothic";
+    font-face="font-family: roboto-regular;";
 }
