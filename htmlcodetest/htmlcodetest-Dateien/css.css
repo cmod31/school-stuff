@@ -1,5 +1,7 @@
 @font-face { font-family: sawarabigothic-regular; 
 src: url('font/SawarabiGothic-Regular.ttf'); } 
+@font-face { font-family: fjallaone-regular; 
+src: url('font/FjallaOne-Regular.ttf'); } 
 
 h1{
     font-family: sawarabigothic-regular;
@@ -7,5 +9,14 @@ h1{
     font-weight: lighter;			
     text-align: center;			
     font-size: 40px;
+    color: white;
+}
+
+p{
+    font-family: fjallaone-regular;
+    width: 100%;				
+    font-weight: lighter;			
+    text-align: center;			
+    font-size: 18px;
     color: white;
 }
