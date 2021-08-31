@@ -20,3 +20,7 @@ body{
     font-size: 18px;
     color: white;
 }
+
+html, body {
+    overflow-x: hidden;
+}
