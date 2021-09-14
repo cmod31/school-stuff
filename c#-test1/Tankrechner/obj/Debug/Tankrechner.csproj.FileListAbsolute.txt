@@ -12,3 +12,7 @@ C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Ta
 C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Tankrechner.csproj.CoreCompileInputs.cache
 C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Tankrechner.exe
 C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Tankrechner.pdb
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\bin\Debug\Tankrechner.exe.manifest
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\bin\Debug\Tankrechner.application
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Tankrechner.exe.manifest
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Tankrechner.application

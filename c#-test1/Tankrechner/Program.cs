@@ -10,6 +10,14 @@ namespace Tankrechner
     {
         static void Main(string[] args)
         {
+            Console.Title = "Deutscher Qualitäts-Rechner";
+            starteTankkostenBerechnung();
+            Console.ReadKey();
+        }
+
+
+        static void starteTankkostenBerechnung ()
+        {
             Console.Title = "Guter Taschenrechner";
 
             double zahl1 = 0; //1. variablen deklarieren - Variablendeklaration
