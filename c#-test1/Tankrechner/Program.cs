@@ -31,5 +31,15 @@ namespace Tankrechner
             Console.WriteLine("Das Tanken kostet {0} Euro",summe);
             Console.ReadLine();
         }
+            //Definieren Sie hier die zweite statische Methode ohne rückgabe und ohne parameter
+            //a) Die Methode soll eine Zeichenkette des Nutzers auf der Konsole ausgeben
+            //und Printzeichenkette () heißen
+            //b) testen /rufen sie die Methode aus
+        static void printZeichenKette()
+        {
+            Console.Write("Geben sie einen Text ein: ");
+            string temp = Console.ReadLine();
+            Console.WriteLine(temp);
+        }
     }
 }
