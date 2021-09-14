@@ -12,7 +12,7 @@ namespace Tankrechner
         {
             Console.Title = "Deutscher Qualitäts-Rechner";
             //starteTankkostenBerechnung();
-            printZeichenKette()
+            printZeichenKette();
             Console.ReadKey();
         }
 
