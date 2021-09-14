@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Tankrechner\Tankrechner\obj\Debug\Tankrechner.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tankrechner\Tankrechner\obj\Debug\Tankrechner.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tankrechner\Tankrechner\bin\Debug\Tankrechner.exe.config
+C:\Users\User\source\repos\Tankrechner\Tankrechner\bin\Debug\Tankrechner.exe
+C:\Users\User\source\repos\Tankrechner\Tankrechner\bin\Debug\Tankrechner.pdb
+C:\Users\User\source\repos\Tankrechner\Tankrechner\obj\Debug\Tankrechner.exe
+C:\Users\User\source\repos\Tankrechner\Tankrechner\obj\Debug\Tankrechner.pdb
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\bin\Debug\Tankrechner.exe.config
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\bin\Debug\Tankrechner.exe
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\bin\Debug\Tankrechner.pdb
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Tankrechner.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Tankrechner.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Tankrechner.exe
+C:\Users\User\Source\Repos\cmod31\school-stuff\c#-test1\Tankrechner\obj\Debug\Tankrechner.pdb
