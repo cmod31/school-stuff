@@ -24,6 +24,7 @@ namespace Tankrechner
             double summe = 0;
             double x = Convert.ToDouble(1.30);
 
+            //ruhe ole
             Console.WriteLine("Bitte geben sie ein wie viel Liter sie tanken wollen: ");
             zahl1 = Convert.ToDouble(Console.ReadLine());
             summe = zahl1 * x;

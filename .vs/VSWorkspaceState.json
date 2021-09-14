@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\c#-test1",
+    "\\c#-test1\\Tankrechner",
     "\\htmlcodetest",
     "\\restauranthtml"
   ],
-  "SelectedNode": "\\c#-test1\\Tankrechner.sln",
+  "SelectedNode": "\\c#-test1\\Tankrechner\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
