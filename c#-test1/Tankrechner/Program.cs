@@ -21,8 +21,7 @@ namespace Tankrechner
         static void starteTankkostenBerechnung ()
         {
 
-            double zahl1 = 0; //1. variablen deklarieren - Variablendeklaration
-            double summe = 0;
+            double zahl1, summe;
             double x = Convert.ToDouble(1.30);
 
             //ruhe ole
@@ -44,10 +43,7 @@ namespace Tankrechner
         }
         static void bmi()
         { 
-            double gewicht;
-            double groesse;
-            double groessehoch2;
-            double bmiErgebniss;
+            double gewicht, groesse, groessehoch2, bmiErgebniss;
 
             Console.WriteLine("Geben sie ihr Gewicht ein");
             gewicht = Convert.ToDouble(Console.ReadLine());
