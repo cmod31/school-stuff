@@ -31,5 +31,11 @@ namespace Tankrechner
             Console.WriteLine("Das Tanken kostet {0} Euro",summe);
             Console.ReadLine();
         }
+        static void printZeichenKette()
+        {
+            Console.Write("Geben sie einen Text ein: ");
+            string temp = Console.ReadLine();
+            Console.WriteLine(temp);
+        }
     }
 }
