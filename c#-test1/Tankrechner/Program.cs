@@ -12,7 +12,8 @@ namespace Tankrechner
         {
             Console.Title = "Deutscher Qualitäts-Rechner";
             //starteTankkostenBerechnung();
-            printZeichenKette();
+            //printZeichenKette();
+            bmi();
             Console.ReadKey();
         }
 
@@ -41,6 +42,25 @@ namespace Tankrechner
             Console.Write("Geben sie einen Text ein: ");
             string temp = Console.ReadLine();
             Console.WriteLine(temp);
+        }
+        static void bmi()
+        { 
+            double gewicht;
+            double groesse;
+            double groessehoch2;
+            double bmiErgebniss;
+
+            Console.WriteLine("Geben sie ihr Gewicht ein");
+            gewicht = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Geben sie ihre Größe ein");
+            groesse = Convert.ToDouble(Console.ReadLine());
+            groessehoch2 = groesse * groesse;
+
+            bmiErgebniss =  groessehoch2 / gewicht;
+
+            Console.WriteLine(bmiErgebniss);
+            Console.ReadKey();
+
         }
     }
 }

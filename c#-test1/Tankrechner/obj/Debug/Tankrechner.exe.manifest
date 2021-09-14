@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tankrechner.exe" size="5584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tankrechner.exe" size="6096">
       <assemblyIdentity name="Tankrechner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DqVqHHJFL6DGFQe2o/HQmJhiG1KyCz6rKW6033nXY4Q=</dsig:DigestValue>
+        <dsig:DigestValue>EYBaNN22dplRU6n5WRXl+pFIUWLzagkLeZttwKZZt+Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
