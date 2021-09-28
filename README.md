@@ -7,4 +7,4 @@ DISCLAIMER: Every jokes about money in my projects are not real i will never giv
 <br>
 <br>
 <br>
-Please help. The C# school classes are so boring...
+The C# school classes are so boring
