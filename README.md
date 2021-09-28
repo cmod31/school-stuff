@@ -5,4 +5,5 @@ First HTML Test (German) [https://cmod31.github.io/school-stuff/htmlcodetest](ht
 
 DISCLAIMER: Every jokes about money in my projects are not real i will never give you anything!
 
-Please help the C# school classes are so boring
+
+Please help. The C# school classes are so boring...
