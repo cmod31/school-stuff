@@ -8,4 +8,3 @@ DISCLAIMER: Every jokes about money in my projects are not real i will never giv
 https://rbz-technik.de/media/2021/08/Vuko69.png
 <br>
 <br>
-The C# school classes are so boring
