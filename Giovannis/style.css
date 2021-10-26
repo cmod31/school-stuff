@@ -46,3 +46,10 @@
     color: white;
     text-align: center;
   }
+
+div {
+  width: 300px;
+  border: 15px solid white;
+  padding: 50px solid white;
+  margin: 20px solid white;
+}
