@@ -48,8 +48,5 @@
   }
 
 p {
-  width: 300px;
-  border: 15px white;
-  padding: 50px white;
-  margin: 20px white;
+   background-color: #ffffff;
 }
