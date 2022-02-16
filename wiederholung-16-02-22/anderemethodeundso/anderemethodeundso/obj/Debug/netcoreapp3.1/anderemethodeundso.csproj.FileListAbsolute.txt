@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\bin\Debug\netcoreapp3.1\anderemethodeundso.exe
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\bin\Debug\netcoreapp3.1\anderemethodeundso.deps.json
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\bin\Debug\netcoreapp3.1\anderemethodeundso.runtimeconfig.json
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\bin\Debug\netcoreapp3.1\anderemethodeundso.runtimeconfig.dev.json
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\bin\Debug\netcoreapp3.1\anderemethodeundso.dll
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\bin\Debug\netcoreapp3.1\anderemethodeundso.pdb
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\obj\Debug\netcoreapp3.1\anderemethodeundso.csprojAssemblyReference.cache
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\obj\Debug\netcoreapp3.1\anderemethodeundso.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\obj\Debug\netcoreapp3.1\anderemethodeundso.AssemblyInfo.cs
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\obj\Debug\netcoreapp3.1\anderemethodeundso.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\obj\Debug\netcoreapp3.1\anderemethodeundso.dll
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\obj\Debug\netcoreapp3.1\anderemethodeundso.pdb
+C:\Users\User\source\repos\anderemethodeundso\anderemethodeundso\obj\Debug\netcoreapp3.1\anderemethodeundso.genruntimeconfig.cache
