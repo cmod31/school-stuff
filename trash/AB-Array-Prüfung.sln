@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AB-Array-Prüfung", "AB-Array-Prüfung\AB-Array-Prüfung.csproj", "{D2A5AB72-7385-4DFB-8895-CE98FBCD2D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A5AB72-7385-4DFB-8895-CE98FBCD2D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A5AB72-7385-4DFB-8895-CE98FBCD2D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A5AB72-7385-4DFB-8895-CE98FBCD2D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A5AB72-7385-4DFB-8895-CE98FBCD2D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9810EE46-57D4-450A-BBAA-23C554F5FA92}
+	EndGlobalSection
+EndGlobal

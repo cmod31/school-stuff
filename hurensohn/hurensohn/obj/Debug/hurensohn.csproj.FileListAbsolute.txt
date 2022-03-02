@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\hurensohn\hurensohn\bin\Debug\hurensohn.exe.config
+C:\Users\User\source\repos\hurensohn\hurensohn\bin\Debug\hurensohn.exe
+C:\Users\User\source\repos\hurensohn\hurensohn\bin\Debug\hurensohn.pdb
+C:\Users\User\source\repos\hurensohn\hurensohn\obj\Debug\hurensohn.csprojAssemblyReference.cache
+C:\Users\User\source\repos\hurensohn\hurensohn\obj\Debug\hurensohn.Form1.resources
+C:\Users\User\source\repos\hurensohn\hurensohn\obj\Debug\hurensohn.Properties.Resources.resources
+C:\Users\User\source\repos\hurensohn\hurensohn\obj\Debug\hurensohn.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hurensohn\hurensohn\obj\Debug\hurensohn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hurensohn\hurensohn\obj\Debug\hurensohn.exe
+C:\Users\User\source\repos\hurensohn\hurensohn\obj\Debug\hurensohn.pdb

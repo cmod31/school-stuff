@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\obj\Debug\netcoreapp3.1\AB-Array-Prüfung.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\obj\Debug\netcoreapp3.1\AB-Array-Prüfung.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\obj\Debug\netcoreapp3.1\AB-Array-Prüfung.AssemblyInfo.cs
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\obj\Debug\netcoreapp3.1\AB-Array-Prüfung.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\bin\Debug\netcoreapp3.1\AB-Array-Prüfung.exe
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\bin\Debug\netcoreapp3.1\AB-Array-Prüfung.deps.json
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\bin\Debug\netcoreapp3.1\AB-Array-Prüfung.runtimeconfig.json
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\bin\Debug\netcoreapp3.1\AB-Array-Prüfung.runtimeconfig.dev.json
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\bin\Debug\netcoreapp3.1\AB-Array-Prüfung.dll
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\bin\Debug\netcoreapp3.1\AB-Array-Prüfung.pdb
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\obj\Debug\netcoreapp3.1\AB-Array-Prüfung.dll
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\obj\Debug\netcoreapp3.1\AB-Array-Prüfung.pdb
+C:\Users\User\source\repos\AB-Array-Prüfung\AB-Array-Prüfung\obj\Debug\netcoreapp3.1\AB-Array-Prüfung.genruntimeconfig.cache
