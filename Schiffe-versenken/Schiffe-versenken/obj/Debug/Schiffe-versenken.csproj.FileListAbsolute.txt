@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\Schiffe-versenken\Schiffe-versenken\bin\Debug\Schiffe-versenken.exe.config
-C:\Users\User\source\repos\Schiffe-versenken\Schiffe-versenken\bin\Debug\Schiffe-versenken.exe
-C:\Users\User\source\repos\Schiffe-versenken\Schiffe-versenken\bin\Debug\Schiffe-versenken.pdb
-C:\Users\User\source\repos\Schiffe-versenken\Schiffe-versenken\obj\Debug\Schiffe-versenken.csprojAssemblyReference.cache
-C:\Users\User\source\repos\Schiffe-versenken\Schiffe-versenken\obj\Debug\Schiffe-versenken.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Schiffe-versenken\Schiffe-versenken\obj\Debug\Schiffe-versenken.exe
-C:\Users\User\source\repos\Schiffe-versenken\Schiffe-versenken\obj\Debug\Schiffe-versenken.pdb
